@@ -1,0 +1,15 @@
+pytz==2022.1  # https://github.com/stub42/pytz
+python-slugify==6.1.1  # https://github.com/un33k/python-slugify
+Pillow==9.1.0  # https://github.com/python-pillow/Pillow
+argon2-cffi==21.3.0  # https://github.com/hynek/argon2_cffi
+redis==4.2.2  # https://github.com/redis/redis-py
+hiredis==2.0.0  # https://github.com/redis/hiredis-py
+
+# Django
+# ------------------------------------------------------------------------------
+Django==4.0.4
+django-allauth==0.50.0
+django-crispy-forms==1.14.0
+django-environ==0.8.1
+django-model-utils==4.2.0
+django-redis==5.2.0
